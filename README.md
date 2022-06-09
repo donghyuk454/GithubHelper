@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/20418155/172809305-1bda67c4-b43a-4354-9133-ef23c13a0b08.png)
 
-MVVM 패턴을 사용해 제작하였습니다.
+MVVM 패턴 제작하였습니다.
 
   ### Model
   - 총 5개의 모델이 있습니다.
